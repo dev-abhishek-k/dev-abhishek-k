@@ -100,9 +100,16 @@ Controller → Service → Repository structure, validation, standardized respon
 
 ## 📈 Contribution Activity
 
+
+
+<h2 align="center">📊 My GitHub Contributions</h2>
+
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abhishek-k&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity" />
+
+[![GitHub Contributions](https://ghchart.rshah.org/7C3AED/dev-abhishek-k)](https://github.com/dev-abhishek-k)
+
 </div>
+
 
 ## 🐍 Contribution Snake
 
